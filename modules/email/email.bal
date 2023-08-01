@@ -12,5 +12,5 @@ function mailDemo() returns error? {
         to: "contact@ballerina.io",
         subject: "Ballerina",
         body: "I love Ballerina"
-    })
+    });
 }
